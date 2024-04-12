@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/To-Do-list-Assignment-QuadB/static/css/main.0c26b676.css",
+    "main.js": "/To-Do-list-Assignment-QuadB/static/js/main.bea9f688.js",
+    "index.html": "/To-Do-list-Assignment-QuadB/index.html",
+    "main.0c26b676.css.map": "/To-Do-list-Assignment-QuadB/static/css/main.0c26b676.css.map",
+    "main.bea9f688.js.map": "/To-Do-list-Assignment-QuadB/static/js/main.bea9f688.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c26b676.css",
+    "static/js/main.bea9f688.js"
+  ]
+}
